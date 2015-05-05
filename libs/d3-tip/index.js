@@ -1,19 +1,3 @@
-Skip to content
- This repository
-Explore
-Gist
-Blog
-Help
-@mstanvick mstanvick
- 
- Watch 17
-  Star 488
-  Fork 128
-Caged/d3-tip
- branch: master  d3-tip/index.js
-@CagedCaged on Oct 21, 2014 Merge pull request #67 from romainneutron/foreignobject
-8 contributors @Caged @deciob @kessler @romainneutron @surjikal @chiester @bmount @BrentSouza
-RawBlameHistory     305 lines (263 sloc)  7.876 kb
 // d3.tip
 // Copyright (c) 2013 Justin Palmer
 //
@@ -318,5 +302,3 @@ RawBlameHistory     305 lines (263 sloc)  7.876 kb
   };
 
 }));
-Status API Training Shop Blog About
-© 2015 GitHub, Inc. Terms Privacy Security Contact
